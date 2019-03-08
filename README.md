@@ -9,5 +9,5 @@ allprojects {
 	}
   
   dependencies {
-	        implementation 'com.github.shahi5472:CustomLibraryDemo:Tag'
+	        implementation 'com.github.shahi5472:CustomLibraryDemo:1.0.1'
 	}
